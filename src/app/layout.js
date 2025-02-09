@@ -8,13 +8,17 @@ const grotesk = Space_Grotesk({
 
 
 export const metadata = {
-  title: "AI Chatbot🚀",
+  title: "Aiden🚀",
   description: "An AI chatbot for recommending how to study and build LLM's",
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={grotesk.className}>
+      <head>
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        
+      </head>
       <body
         className="bg-black"
       >

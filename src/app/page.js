@@ -99,7 +99,7 @@ const ChatInterface = () => {
             <div className="bg-[#4A4A4C] p-2 rounded-full">
               <Zap className="w-6 h-6 text-[#5E5CE6]" />
             </div>
-            <h1 className="text-xl md:text-2xl font-bold text-white">AI Companion</h1>
+            <h1 className="text-xl md:text-2xl font-bold text-white">Aiden</h1>
           </div>
         </div>
 
